@@ -11,8 +11,11 @@ h1 {
 }
 
 p {
-  font-size:12px;
+  font-size:13px;
   padding: 15px 745px;
   width:400px;
   text-align:center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
